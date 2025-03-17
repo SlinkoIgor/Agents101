@@ -3,16 +3,13 @@
 Course was inspired by the LangGraph Academy Course and carefully adopted for university program.
 
 # Lecture 1
-Date: 18 April\
+Date: 18 March\
 Modules: 
-* [module_1](module_1) - TODO: content
-* [module_2](module_2) - TODO: content
+* [module_1](module_1) - Base for agents development
+* [module_2](module_2) - Memory management
 
 # Homework
 TODO
 
 # Lecture 2
-Date: 18 April\
-Modules: 
-* [module_1](module_1) - TODO: content
-* [module_2](module_2) - TODO: content
+TODO
